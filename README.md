@@ -15,6 +15,7 @@ Product Sales & Trending Analysis
 The objective of this project is to analyze business performance, track vendor efficiency, monitor inventory, and identify top-performing products.
 
 📄 Page 1 – Sales & Inventory Overview
+
 🔎 Description
 
 This dashboard provides a high-level overview of vendor sales performance, inventory availability, and date-based sales trends.
@@ -39,6 +40,7 @@ Inventory levels vary across products.
 Sales peak during specific time periods.
 
 📄 Page 2 – Vendor Performance & Monthly Analysis
+
 🔎 Description
 
 This dashboard focuses on vendor efficiency, receiving patterns, buying vs selling behavior, and financial tracking.
@@ -69,6 +71,7 @@ Some vendors perform better in delivery consistency.
 Buying and selling patterns differ among vendors.
 
 📄 Page 3 – Product Sales & Trending Analysis
+
 🔎 Description
 
 This dashboard analyzes product-level performance and identifies trending and top-selling products.
