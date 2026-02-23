@@ -1,4 +1,5 @@
 📊 Sales & Inventory Analysis Dashboard – Power BI Project
+
 📌 Project Overview
 
 This project presents a comprehensive Sales, Vendor, and Inventory Analysis Dashboard built using Microsoft Power BI.
